@@ -1,0 +1,4 @@
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/build/CMakeFiles/edit_cache.dir
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/build/CMakeFiles/class_exe.dir
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/build/CMakeFiles/point.dir

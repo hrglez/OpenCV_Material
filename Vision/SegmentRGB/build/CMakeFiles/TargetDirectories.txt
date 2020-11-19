@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/SegmentRGB/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/SegmentRGB/build/CMakeFiles/segmentRGB.dir
+/home/hrg/Documents/OpenCV/Vision/SegmentRGB/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/Skin2/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/Skin2/build/CMakeFiles/skins.dir
+/home/hrg/Documents/OpenCV/Vision/Skin2/build/CMakeFiles/edit_cache.dir

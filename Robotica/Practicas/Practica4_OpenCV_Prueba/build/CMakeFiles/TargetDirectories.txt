@@ -1,0 +1,3 @@
+/home/hrg/Documents/Robotica/Practicas/Practica4_OpenCV_Prueba/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/Robotica/Practicas/Practica4_OpenCV_Prueba/build/CMakeFiles/opencv_test.dir
+/home/hrg/Documents/Robotica/Practicas/Practica4_OpenCV_Prueba/build/CMakeFiles/edit_cache.dir

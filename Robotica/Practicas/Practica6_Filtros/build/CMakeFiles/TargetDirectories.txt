@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Robotica/Practicas/Practica6_Filtros/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Robotica/Practicas/Practica6_Filtros/build/CMakeFiles/filtros.dir
+/home/hrg/Documents/OpenCV/Robotica/Practicas/Practica6_Filtros/build/CMakeFiles/edit_cache.dir

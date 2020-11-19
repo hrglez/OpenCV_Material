@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3   -rdynamic CMakeFiles/class_exe.dir/src/main.cpp.o  -o class_exe 

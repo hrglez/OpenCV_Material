@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/KNN/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/KNN/build/CMakeFiles/knn.dir
+/home/hrg/Documents/OpenCV/Vision/KNN/build/CMakeFiles/edit_cache.dir

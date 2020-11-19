@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Collage/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Collage/build/CMakeFiles/collage.dir
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Collage/build/CMakeFiles/edit_cache.dir

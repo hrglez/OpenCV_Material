@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/Project/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/Project/build/CMakeFiles/placas.dir
+/home/hrg/Documents/OpenCV/Vision/Project/build/CMakeFiles/edit_cache.dir

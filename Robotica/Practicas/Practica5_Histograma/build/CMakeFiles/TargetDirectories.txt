@@ -1,0 +1,3 @@
+/home/hrg/Documents/Robotica/Practicas/Practica5_Histograma/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/Robotica/Practicas/Practica5_Histograma/build/CMakeFiles/histograma.dir
+/home/hrg/Documents/Robotica/Practicas/Practica5_Histograma/build/CMakeFiles/edit_cache.dir

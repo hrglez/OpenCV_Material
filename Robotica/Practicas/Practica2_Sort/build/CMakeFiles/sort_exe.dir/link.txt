@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3   -rdynamic CMakeFiles/sort_exe.dir/src/main.cpp.o  -o sort_exe 

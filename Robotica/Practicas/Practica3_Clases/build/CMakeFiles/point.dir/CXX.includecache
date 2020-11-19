@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/point.hpp
+
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/src/main_p.cpp
+point.hpp
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/src/point.hpp
+iostream
+-
+
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/src/point.cpp
+point.hpp
+/home/hrg/Documents/Robotica/Practicas/Practica3_Clases/src/point.hpp
+cmath
+-
+iostream
+-
+

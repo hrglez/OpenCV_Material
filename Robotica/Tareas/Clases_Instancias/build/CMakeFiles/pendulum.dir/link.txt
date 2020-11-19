@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3   -rdynamic CMakeFiles/pendulum.dir/src/pendulum.cpp.o CMakeFiles/pendulum.dir/src/main.cpp.o  -o pendulum 

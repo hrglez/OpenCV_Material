@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pendulum.hpp
+
+/home/hrg/Documents/Robotica/Tareas/Clases_Instancias/src/main.cpp
+pendulum.hpp
+/home/hrg/Documents/Robotica/Tareas/Clases_Instancias/src/pendulum.hpp
+iostream
+-
+
+/home/hrg/Documents/Robotica/Tareas/Clases_Instancias/src/pendulum.cpp
+pendulum.hpp
+/home/hrg/Documents/Robotica/Tareas/Clases_Instancias/src/pendulum.hpp
+cmath
+-
+iostream
+-
+

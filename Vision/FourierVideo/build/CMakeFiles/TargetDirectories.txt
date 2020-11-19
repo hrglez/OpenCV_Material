@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/FourierVideo/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/FourierVideo/build/CMakeFiles/fourierV.dir
+/home/hrg/Documents/OpenCV/Vision/FourierVideo/build/CMakeFiles/edit_cache.dir

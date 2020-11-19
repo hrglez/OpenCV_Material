@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(ObjectDetection)
+
+set(CMAKE_CXX_FLAGS "-std=c++11 -O3 ${CMAKE_CX_FlAGS}")
+
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} include)
+
+add_executable(
+object
+src/main.cpp
+src/object.cpp
+)
+
+target_link_libraries( object ${OpenCV_LIBS} )

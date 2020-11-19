@@ -1,0 +1,3 @@
+/home/hrg/Documents/Robotica/Practicas/Practica2_Sort/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/Robotica/Practicas/Practica2_Sort/build/CMakeFiles/sort_exe.dir
+/home/hrg/Documents/Robotica/Practicas/Practica2_Sort/build/CMakeFiles/edit_cache.dir

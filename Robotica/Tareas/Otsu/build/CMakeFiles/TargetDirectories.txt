@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Otsu/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Otsu/build/CMakeFiles/otsu.dir
+/home/hrg/Documents/OpenCV/Robotica/Tareas/Otsu/build/CMakeFiles/edit_cache.dir

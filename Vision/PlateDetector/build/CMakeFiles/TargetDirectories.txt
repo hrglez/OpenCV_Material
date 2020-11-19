@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/PlateDetector/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/PlateDetector/build/CMakeFiles/plate.dir
+/home/hrg/Documents/OpenCV/Vision/PlateDetector/build/CMakeFiles/edit_cache.dir

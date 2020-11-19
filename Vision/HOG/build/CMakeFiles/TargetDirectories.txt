@@ -1,0 +1,3 @@
+/home/hrg/Documents/OpenCV/Vision/HOG/build/CMakeFiles/rebuild_cache.dir
+/home/hrg/Documents/OpenCV/Vision/HOG/build/CMakeFiles/HOG.dir
+/home/hrg/Documents/OpenCV/Vision/HOG/build/CMakeFiles/edit_cache.dir

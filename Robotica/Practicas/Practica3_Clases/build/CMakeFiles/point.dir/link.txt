@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3   -rdynamic CMakeFiles/point.dir/src/point.cpp.o CMakeFiles/point.dir/src/main_p.cpp.o  -o point 
